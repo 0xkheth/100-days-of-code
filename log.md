@@ -10,10 +10,8 @@
 
 ### Day 1: November 9, 2021
 
-**Today's Progress**: Finished up to *Attacking delusion* under **The computer's perspective - Interlude**. 
+**Today's Progress**: Finished up to *Attacking delusion* under **The computer's perspective - Interlude**.
 
 **Thoughts:** Before I started coding I spent some time organizing thoughts which had occurred to me about programming yesterday and today. Previously I didn't give myself enough time for reflection and rushed through the task at hand. Retrospectives, even when it comes to emotions, cannot be brushed aside. I felt pretty anxious during the whole hour--most likely it had to do with not getting enough sleep the day before. I'll need to create better situations where it'll be easier for me to make coding into a lasting habit.
 
 **Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/4a618eca1ca817db9ab465597ec0ef5ad354219f)
-
-
