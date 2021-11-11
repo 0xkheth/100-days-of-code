@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: November 11, 2021
+
+**Today's Progress**: Finished up to **V5 - Displaying data better**.
+
+**Thoughts:** Coded for 1.5 hours, again went past 12 to early next morning. Woke up late and was busy with issues I needed to take care of during the day. At night I sat down to code but my housemate wanted to chat and the work got pushed back. If I sleep early/wake up early and keep my morning routine sacred, the day will be much better spent.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/165430608aeb979f793e1e5bb4f8db0cf06e2119)
+
 ### Day 2: November 10, 2021
 
 **Today's Progress**: Finished up to **V3 - Using objects**.
@@ -31,11 +39,3 @@ A technique I've learned today is about checking *expectation and reality* and b
 **Thoughts:** My goal is to put in 2 solid hours every day for 100 days. Started coding later during the day and could only code for an hour due to a meeting. I've attempted to code for 100 days straight and failed many times. I've attempted Watch and Code 4-5 times and always gave up in the middle. I'm hoping to focus on building momentum and being consistent to reach 100 days. What I am doing differently this time is publicly committing myself to push through.
 
 **Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/57e3905e9d7ecfbcd36f362565321a7fab1bfe1e)
-
-### Day 3: November 11, 2021
-
-**Today's Progress**:
-
-**Thoughts:**
-
-**Link to work:** [Practical JavaScript Introductory Course]()
