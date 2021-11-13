@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: November 13, 2021
+
+**Today's Progress**: Finished up to *document and element ids* under **V7 - Buttons!**.
+
+**Thoughts:** All great habits start small. Coded an hour a day for almost a week and I FEEL the focus and momentum building. Throughout V6 I was surprised that I was engaged in quality deep work. Being able to fully be immersed and be in the present means more to me than how much progress I am objectively making. My goal is to repeat and continue this "feel good streak" for as long as possible.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/528541374a5ff1bd3ae3512d044dbb3854bd76a0)
+
 ### Day 4: November 12, 2021
 
 **Today's Progress**: Finished up to *If everything is false, change everything to true* under **V6 - Toggle all**.
