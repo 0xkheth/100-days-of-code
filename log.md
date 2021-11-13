@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: November 12, 2021
+
+**Today's Progress**: Finished up to *If everything is false, change everything to true* under **V6 - Toggle all**.
+
+**Thoughts:** I am proud of myself for combining if/else statements and for loops to achieve the desired effect. I honestly had no idea where I should begin to solve the problem. I combed through my thinking process to break up big problems into smaller problems and articulated that to myself. This process directed me towards the solution. The tenacity to sit and work through problems patiently gives results.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/528541374a5ff1bd3ae3512d044dbb3854bd76a0)
+
 ### Day 3: November 11, 2021
 
 **Today's Progress**: Finished up to **V5 - Displaying data better**.
