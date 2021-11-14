@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: November 14, 2021
+
+**Today's Progress**: Finished up to **Interlude - Experimenting with functions**.
+
+**Thoughts:** Tried #100DaysOfCode while moving from city to city and it's doable as long as I dedicate time and make it high priority. I feel confident knowing that this will be something I can do moving around from country to country next year. I am lacking in how I check myself for claims on tests. If there is a statement which is either True or False, collect evidence and build up a case that it is 100% either way using various methods. Once the code I look at becomes complicated, not knowing how something works 100% can prove to be fatal.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/a118cd10837b868d9d5f91171163f582a17c0e8c)
+
 ### Day 5: November 13, 2021
 
 **Today's Progress**: Finished up to *document and element ids* under **V7 - Buttons!**.
