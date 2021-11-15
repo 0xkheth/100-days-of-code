@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: November 15, 2021
+
+**Today's Progress**: Completed all requirements for **V8 - Getting data from inputs**.
+
+**Thoughts:** I've switched cities and coding times multiple times these past couple days and it's causing fatigue. I felt detached from reality and what's around me half of today. To calm myself down, I stopped coding right when I felt like I could keep going reminding myself that this is a marathon and I need to be consistent tomorrow. It's become easier to push things aside to dedicate 1 hour of my time solely to coding and that is something to celebrate and itself a big win.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/a0229af58a88211103c320239d06525d1ad5cc3b)
+
 ### Day 6: November 14, 2021
 
 **Today's Progress**: Finished up to **Interlude - Experimenting with functions**.
