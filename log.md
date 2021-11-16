@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 8: November 16, 2021
+
+**Today's Progress**: Completed *there should be an li for each todo* under **V9 - Escape from the console**.
+
+**Thoughts:**
+
+I came up with solutions with the same output which were different than the one the instructor presented. I wasn't satisfied, took time to explore my curiosity, and tried to figure out why this was the case. I'm encouraged knowing these may be signs that curiosity is what drives me.
+
+Also, it was hard to focus as I was coding after lunchtime. I need to select better hours.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/f4d9684a29a327b215032a6949271cfce7084fbe)
+
 ### Day 7: November 15, 2021
 
 **Today's Progress**: Completed all requirements for **V8 - Getting data from inputs**.
