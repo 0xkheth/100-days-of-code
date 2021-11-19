@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: November 17, 2021
+
+**Today's Progress**: Completed *Introduction* under **V10 - Click to delete**.
+
+**Thoughts:** I was surprised at myself being a more active learner than I anticipated. I read MDN documentation thoroughly without being prompted and ended up with more questions than when I started. One of those questions helped me understand that Element.innerHTML and Element.setHTML() could both be used to achieve the same effect with different security tradeoffs. I would not have known that if I didn't do the extra work.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/2a317525494fbb4d470d864a7dd625548b84d484)
+
 ### Day 8: November 16, 2021
 
 **Today's Progress**: Completed *there should be an li for each todo* under **V9 - Escape from the console**.
