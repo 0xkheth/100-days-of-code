@@ -1,12 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 11: November 19, 2021
+
+**Today's Progress**: Wrote down requirements for **V11 - Click to toggle**.
+
+**Thoughts:**
+
+I came up with a solution which was more succinct than the example answer. While there definitely can be tradeoffs down the road, I experimented with the code to make sure it runs as far as I could tell.
+
+While coding, you're constantly having to search and look up things which you did not know before. The best way to understand these new concepts you've just found is to become a master at constructing and testing through small experiments.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/dd99957612001cbd0a6ee42a05c27b8e782c8065)
+
 ### Day 10: November 18, 2021
 
-**Today's Progress**: 
+**Today's Progress**: *Investigation Part 2 (and exercise)* WIP under **V10 - Click to delete**.
 
-**Thoughts:** 
+**Thoughts:** The course is progressively less hand holding and I have to google questions which come up in order to find answers. This being the case, I'm realizing that I should be coding when my creative brain is teeming with activity and not when it's lethargic and wanting to wind down.
 
-**Link to work:** [Practical JavaScript Introductory Course]()
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/0e83e466c9f97b02e0d2b6c18a1a8bc4a3bbb1af)
 
 ### Day 9: November 17, 2021
 
