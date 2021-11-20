@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: November 18, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Practical JavaScript Introductory Course]()
+
 ### Day 9: November 17, 2021
 
 **Today's Progress**: Completed *Introduction* under **V10 - Click to delete**.
