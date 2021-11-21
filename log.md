@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 12: November 20, 2021
+
+**Today's Progress**: Completed *Expectation violation* under **V11 - Click to toggle**.
+
+**Thoughts:** 
+
+My succinct solution from yesterday caused problems for the function I was refactoring today. I had to backtrack and change yesterday's and today's code.
+
+Although I've seen the solution from yesterday and have the luxury of experimenting while not totally lost in the dark, I felt I was being punished for not following a) whatever the model answer is or b) not following directions. Funny how perspective can radically change in 24 hours depending on your feelings.
+
+While more time was spent correcting, I've learned more in the end. There's the "model answer", my "succinct" solution, and I know what obstacle you'll face with the "succinct" solution. Feelings are not an accurate judge of whether someone's learning or growing. The path of learning and reaching understanding is littered with dead ends and failures. If I'm stretching myself and am on a steep learning curve, I will constantly feel inadequate. I'm learning to pursue and love that.
+
+A quote from the lesson today:
+
+> When you're getting things to work, just get it to work and you can worry about other options and considerations after you get something to work. If you don't get something to work, you don't have the privilege of talking about other options. The way you sequence that thinking is very important.
+>
+> You need to have a bias towards action and fixing things instead of a bias towards discussion, debate, and not doing anything.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/8649fca705bdbb64342a6f69071a78023758b31e)
+
 ### Day 11: November 19, 2021
 
 **Today's Progress**: Wrote down requirements for **V11 - Click to toggle**.
