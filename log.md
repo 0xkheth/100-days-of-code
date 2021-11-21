@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: November 21, 2021
+
+**Today's Progress**: Completed up to *Solution Part 3 - A little more research* under **V11 - Click to toggle**.
+
+**Thoughts:** While I wrote written code that makes the toggle button work, I wasn't thorough in terms of researching what string methods to use. I read the descriptions and thought I understood the methods instead of experimenting with the possible list of candidate methods. A W for coding yet another day but a L for rushing instead of building good, tiny habits.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/c17a27b64f048ce05d93bbf54d311b2c6b4fd06a)
+
 ### Day 12: November 20, 2021
 
 **Today's Progress**: Completed *Expectation violation* under **V11 - Click to toggle**.
