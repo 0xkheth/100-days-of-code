@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: November 23, 2021 (Actual Date: December 7, 2021)
+
+**Today's Progress**: *Learned about and setup Git SSH*. **Made my first and second commit using CLI**.
+
+**Thoughts:** There's no reason to get frustrated that I couldn't work on my JavaScript course because I was learning how to use Git on Linux. It's something I had no idea how to do before but now I know how. I'm finding I need to constantly remind myself that growth can only happen through learning and it's supposed to feel uncomfortable. I'm looking forward to digging deep once again that the environment is setup.
+
+**Link to work:** N/A
+
 ### Day 14: November 22, 2021 (Actual Date: December 7, 2021)
 
 **Today's Progress**: *Setup optimal coding environment for deep work on a different machine* (Mac to Ubuntu). **Installed Git and learned how to use Git on CLI**.
