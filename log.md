@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: November 22, 2021 (Actual Date: December 7, 2021)
+
+**Today's Progress**: *Setup optimal coding environment for deep work on a different machine* (Mac to Ubuntu). **Installed Git and learned how to use Git on CLI**.
+
+**Thoughts:**
+
+1. I've been taking care of what's urgent and that took me away from sticking with my commitment to complete the #100DaysofCode challenge. Instead of pretending I've done all the work in the meantime, I want to be honest with my progress and attempt at catching up.
+
+2. My readings on deep work has provided the resolve to fully migrate myself off of a Mac onto a Linux machine. The new machine offers zero distraction and I will focus on creative work such as coding which requires deep concentration at a high intensity over a prolonged period.
+
+**Link to work:** N/A
+
 ### Day 13: November 21, 2021
 
 **Today's Progress**: Completed up to *Solution Part 3 - A little more research* under **V11 - Click to toggle**.
