@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: November 24, 2021 (Actual Date: December 8, 2021)
+
+**Today's Progress**: Solving *Quiz: Split* under **V11 - Click to toggle**.
+
+**Thoughts:** I'm digging in to learn how and *why* String.prototype.split() works the way it works. I'm realizing there are different levels to understanding and each choice I make in the quest for understanding will compound over time. The Chrome debugger is still my tool of choice but I am deliberately applying myself to understand the split method--my attitude towards the assignment is different. I'm proud for not giving up trying to understand when my expected outputs started matching the actual outputs--it's still not at 100% and I can't explain why this method produces this output. If I were to stop the best explanation I could give them is "try it out for yourself and figure it out." I haven't figured out the why but I feel I'm getting close. Just need to stick with it.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/83d87d757dccb8aa47e2a2cb4b162c787a18b74a)
+
 ### Day 15: November 23, 2021 (Actual Date: December 7, 2021)
 
 **Today's Progress**: *Learned about and setup Git SSH*. **Made my first and second commit using CLI**.
