@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: November 25, 2021 (Actual Date: December 8, 2021)
+
+**Today's Progress**: Completed *Walkthrough: Split(expectations)* under **V11 - Click to toggle**.
+
+**Thoughts:** I came up with a hypothesis for the split method which seemed to cover all cases. Whether or not that is why it is remains to be seen. Unfortunately, the detailed semantics of JavaScript is not something I can know at this point in time with my skill level. I had fulfillment and a strong sense of achievement knowing I gave what all of what I have at this moment and reached a "good-enough" answer--that I wrestled the problem and didn't give up. Hopefully cases like these can repeat.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/9503d2ae69540109ea1dbe29417a96b21f41d6fb)
+
 ### Day 16: November 24, 2021 (Actual Date: December 8, 2021)
 
 **Today's Progress**: Solving *Quiz: Split* under **V11 - Click to toggle**.
