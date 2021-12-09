@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: November 26, 2021 (Actual Date: December 9, 2021)
+
+**Today's Progress**: Completed *Solution* under **V12 - Click to edit**.
+
+**Thoughts:** There's a much simpler explanation for my hypothesis behind the split method that's based on observation. It was in the documentation all along; however, I was blind and couldn't see it. My level right now: *"I don't know what I don't know"*. It's clear I hold an inflated view of myself of having to know everything beforehand. Where does this desire of wanting to appear omniscient come from? It's the source of a lot of anxiety and facade in my life. The truth of the matter is, I understand a tiny fraction of the universe and am woefully ignorant. My hope is that I learn to accept my ignorance. The only antidote is to *learn* to the best of my ability. **There's a beauty and pleasure to working through 1 line of code at a time--it's a process that cannot be rushed**.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/976131c3962d3be893004a0d619d9ec8e1b82a50)
+
 ### Day 17: November 25, 2021 (Actual Date: December 8, 2021)
 
 **Today's Progress**: Completed *Walkthrough: Split(expectations)* under **V11 - Click to toggle**.
