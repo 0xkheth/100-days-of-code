@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: November 27, 2021 (Actual Date: December 9, 2021)
+
+**Today's Progress**: Completed **Practical JavaScript Introductory Course**.
+
+**Thoughts:** I've caught up to a milestone I've passed before and it's gratifying. I'm given the opportunity and have the time to attempt this challenge one more time. The path forward or my surroundings do not appear exactly the same as before--a lot has happened since then. The future holds nothing but newness. My life's trajectory can end up anywhere. I'm thankful.
+
+**Link to work:** [Practical JavaScript Introductory Course](https://github.com/0xkheth/practical-javascript/commit/0f2a88f6045bf1793cd4f7cd50878cba7585bb2b)
+
 ### Day 18: November 26, 2021 (Actual Date: December 9, 2021)
 
 **Today's Progress**: Completed *Solution* under **V12 - Click to edit**.
