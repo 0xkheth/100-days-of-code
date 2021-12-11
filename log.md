@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: November 28, 2021 (Actual Date: December 10, 2021)
+
+**Today's Progress**: Applied to **Practical JavaScript Premium Membership**.
+
+**Thoughts:** Check-in: nervous. It's been a while since I've wanted to be part of a program this badly. Their teaching method is non-standard and doesn't scale well to a large number of students--intimate. The goals which it aims at--autonomy, literacy, attention to detail, contribution--are skills and mindsets I strive towards. I badly want to ace the exam and get in because I know it'll help me avoid the pain of focusing on too much, too early. I excel when there's an actual person to be accountable towards and when that person can put a blinder to help me focus.
+
+**Link to work:** N/A
+
 ### Day 19: November 27, 2021 (Actual Date: December 9, 2021)
 
 **Today's Progress**: Completed **Practical JavaScript Introductory Course**.
